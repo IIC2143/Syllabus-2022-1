@@ -1,5 +1,5 @@
 # Control flow in ruby ​​works very similar to python,
-# only we use "eslif" instead of "elif"
+# except we use "elsif" instead of "elif"
 
 x = gets.chomp.to_i
 
@@ -20,7 +20,6 @@ else
     puts "The number #{x} is long"
 end
 
-puts "\n"
 # Boolean operators
 
 puts true || false # or

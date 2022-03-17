@@ -12,6 +12,6 @@ real = three.to_i() + five.to_i()  # Returns an integer
 overkill = three.to_f() + five.to_f()  # Returns a float
 
 # Log results
-puts(naive)
-puts(real)
-puts(overkill)
+puts(naive) # 35
+puts(real) # 8
+puts(overkill) # 8.0
