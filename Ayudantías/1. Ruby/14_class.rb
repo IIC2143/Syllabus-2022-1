@@ -37,16 +37,17 @@ class Cat < Animal
 end
 
 random_animal = Animal.new("Steve", "Notch")
-puts random_animal
-puts random_animal.name
+puts random_animal # I am Steve and my owner is Notch
+puts random_animal.name # Steve
 
 
 cat = Cat.new("Michi", "Maggie", 0)
-cat.talk
+cat.talk # MIAAAAAAU
 
 (0..3).each do |_|
-    cat.pet
+    cat.pet # Purr
 end
 
-puts cat.purrs
-puts cat.name
+puts cat.purrs # 40
+puts cat.name # Michi
+puts cat # I am Michi and my owner is Maggie

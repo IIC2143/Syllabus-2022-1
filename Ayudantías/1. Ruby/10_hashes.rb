@@ -10,14 +10,13 @@ symbol_hash = { :one => 1, :two => 2, :three => 3 }
 
 puts "HASHES"
 # Log hashes generated... They are IDENTICAL!
-puts hash
-puts symbol_hash
-
+puts hash # {:one=>1, :two=>2, :three=>3}
+puts symbol_hash # {:one=>1, :two=>2, :three=>3}
 
 # ¿¿WHAAAAAAT?? Strings get transformed to symbols when used inside
 # the hash's definition...
-puts symbol_hash[:one]
-puts hash[:one]
+puts symbol_hash[:one] # 1
+puts hash[:one] # 1
 
 # Add some elements...
 hash["four"] = 4
@@ -27,7 +26,7 @@ hash[:four] = 5
 puts "HASH FOUR"
 puts hash["four"]
 puts hash[:four]
-puts hash # WHAAAT?!?!?
+puts hash # {:one=>1, :two=>2, :three=>3, "four"=>4, :four=>5}
 
 # ProTip: when a hash is the last argument given to a method,
 # {} brackets can be omitted inside the method call. For example:

@@ -7,3 +7,4 @@ newSet << 2 # add 2 to the set
 newSet << 2 # add 2 to the set
 
 puts newSet # log everything in the set
+# #<Set: {1, 2}>
