@@ -16,26 +16,27 @@ end
 
 ######################
 
+# Define a VERY realistic weekday list
 week = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
 
-
-week.each do |day|
-puts day
+# Iter over the week and print each day
+week.each do |day|      # for day in week -> python equivalent
+puts day              #     print(day)
 end
 
-puts "\n"
+puts "----------"  # Separator
 
-for i in 0..6
-puts week[i]
+for i in 0..6  # Both numbers (0 and 6) are included!
+puts week[i]     # Access the i element of week
 end
 
-puts "\n"
+puts "----------"  # Separator
 
-week.each_with_index do |day, index|
+week.each_with_index do |day, index|  # Remember Python's enumerate method?
 puts "#{index}: #{day}"
 end
 
-puts "\n"
+puts "----------"  # Separator
 
 index = 0
 while index < week.length

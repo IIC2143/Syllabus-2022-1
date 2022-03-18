@@ -12,7 +12,4 @@ end
   
 # Log both results
 puts addition 2, 3           # It obviously returns
-puts implicit_addition 4, 5  # What happens with this call? (spoiler: it returns 9)
-
-
-
+puts implicit_addition 4, 5  # What happens with this call?

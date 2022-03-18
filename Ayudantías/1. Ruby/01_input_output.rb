@@ -10,6 +10,3 @@ print(data)
 print(", esto se imprime en la misma linea\n")
 
 p(data)
-
-
-

@@ -2,6 +2,7 @@
 require_relative "env"
 
 # Require a third party library (`gem install faker` first)
+# https://github.com/faker-ruby/faker
 require "faker"
 
 # Log variable from the env.rb file
@@ -12,5 +13,5 @@ puts $var_3
 
 # Use a method from the third party library
 (0..5).each do |_|
-    puts Faker::Name.name 
+    puts " -> #{Faker::ChuckNorris.fact}"
 end
