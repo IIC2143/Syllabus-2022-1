@@ -1,34 +1,34 @@
-COMIENZA INFORMACION AlDEANOS
+COMIENZA INFORMACION ALDEANOS
 1 - Granjero Ignacio (lvl 1):
-(1) Trigo: 6
-(2) Papa: 9
-(3) Zanahoria: 9
+(1) Trigo: 4
+(2) Papa: 6
+(3) Zanahoria: 6
 4 - Granjero Carlos (lvl 2):
-(1) Trigo: 6
-(2) Papa: 9
-(3) Zanahoria: 9
-(4) Pan: 12
-(5) Calabaza: 12
-(6) Pie de Calabaza: 15
+(1) Trigo: 4
+(2) Papa: 6
+(3) Zanahoria: 6
+(4) Pan: 8
+(5) Calabaza: 8
+(6) Pie de Calabaza: 10
 5 - Granjero Maria (lvl 5):
-(1) Trigo: 6
-(2) Papa: 9
-(3) Zanahoria: 9
-(4) Pan: 12
-(5) Calabaza: 12
-(6) Pie de Calabaza: 15
-(7) Manzana: 6
-(8) Sandia: 12
-(9) Galleta: 12
-(10) Torta: 24
-(11) Zanahoria Dorada: 60
+(1) Trigo: 4
+(2) Papa: 6
+(3) Zanahoria: 6
+(4) Pan: 8
+(5) Calabaza: 8
+(6) Pie de Calabaza: 10
+(7) Manzana: 4
+(8) Sandia: 8
+(9) Galleta: 8
+(10) Torta: 16
+(11) Zanahoria Dorada: 40
 10 - Granjero Pepe (lvl 2):
-(1) Trigo: 6
-(2) Papa: 9
-(3) Zanahoria: 9
-(4) Pan: 12
-(5) Calabaza: 12
-(6) Pie de Calabaza: 15
+(1) Trigo: 4
+(2) Papa: 6
+(3) Zanahoria: 6
+(4) Pan: 8
+(5) Calabaza: 8
+(6) Pie de Calabaza: 10
 2 - Herrero Martin (lvl 5):
 (12) Carbon: 5
 (13) Hacha Piedra: 15
@@ -64,23 +64,23 @@ COMIENZA INFORMACION AlDEANOS
 (14) Picota Piedra: 15
 (15) Pala Piedra: 15
 3 - Bibliotecario Andres (lvl 4):
-(26) Papel: 2
-(27) Estanteria: 7
-(28) Linterna: 4
-(29) Libro: 5
-(30) Tinta: 4
-(31) Vidrio: 4
-(32) Libro y Pluma: 5
+(26) Papel: 3
+(27) Estanteria: 13
+(28) Linterna: 7
+(29) Libro: 10
+(30) Tinta: 7
+(31) Vidrio: 7
+(32) Libro y Pluma: 10
 6 - Bibliotecario Camila (lvl 3):
-(26) Papel: 2
-(27) Estanteria: 7
-(28) Linterna: 4
-(29) Libro: 5
-(30) Tinta: 4
+(26) Papel: 3
+(27) Estanteria: 13
+(28) Linterna: 7
+(29) Libro: 10
+(30) Tinta: 7
 9 - Bibliotecario Constanza (lvl 2):
-(26) Papel: 2
-(27) Estanteria: 7
-(28) Linterna: 4
+(26) Papel: 3
+(27) Estanteria: 13
+(28) Linterna: 7
 FIN INFORMACION ALDEANOS
 COMIENZA REALIZAR INTERCAMBIOS
 El jugador Felipe compro Trigo del Herrero Javiera por 5 rubies
