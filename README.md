@@ -28,7 +28,24 @@ Bienvenido al sitio web del curso Ingeniería de Software. En esta página podr�
 
 | Nombre              | Email                  | Github                                                             |
 |---------------------|------------------------|--------------------------------------------------------------------|
-
+| Martín Orrego  | martinorregosilva@uc.cl        | [@OrregoSilva](https://github.com/OrregoSilva)                         |
+| Juan Pablo Olivares  | jpolivares3@uc.cl         | [@jupaolivares](https://github.com/jupaolivares)                         |
+| Javiera Dawabe  | jadawabe@uc.cl         | [@jadawabe](https://github.com/jadawabe)                         |
+| Pablo Kipreos  | pjkipreos@uc.cl         | [@Pablok98](https://github.com/Pablok98)                         |
+| Sebastián Carrasco  | sebacarrasco@uc.cl         | [@sebacarrasco](https://github.com/sebacarrasco)                         |
+| Maximiliano Torres  | maximiliano.torres@uc.cl         | [@Maxi1805](https://github.com/Maxi1805)                         |
+| Benito Tondreaux  | benito.tondreaux@uc.cl         | [@benito-tondreaux](https://github.com/benito-tondreaux)                         |
+| Andrés Castillo  | acastio@uc.cl         | [@acastill20](https://github.com/acastill20)                         |
+| Nicole Caballero  | nicole.caballero@uc.cl         | [@nicolecll](https://github.com/nicolecll)                         |
+| Catalina Ramírez  | catalina.ramrez@uc.cl         | [@catalina-ramirez](https://github.com/catalina-ramirez)                         |
+| Mariela Zambrano  | mariela.zambrano@uc.cl         | [@mariizamb](https://github.com/mariizamb)                         |
+| Ignacio Porte  | ignacio.porte@uc.cl         | [@IgnacioPorte](https://github.com/IgnacioPorte)                         |
+| Felipe Fuentes  | ffuentep@uc.cl          | [@felipefuentesporras](https://github.com/felipefuentesporras)                         |
+| Oreste Mosciatti  | oreste.mosciatti@uc.cl          | [@oretmj](https://github.com/oretmj)                         |
+| Nicolás Barría  | nbarriav@uc.cl         | [@nbarriav](https://github.com/nbarriav)                         |
+| Francisca Cares  | fccares@uc.cl         | [@franciscares](https://github.com/franciscares)                         |
+| Benjamín González  | bgonzalezb@uc.cl         | [@Benyo27](https://github.com/Benyo27)                         |
+| Constanza Ortiz  | constanza.ortiz@uc.cl         | [@conyortizsimpson](https://github.com/conyortizsimpson)                         |
 
 
 
