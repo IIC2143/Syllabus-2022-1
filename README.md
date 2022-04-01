@@ -53,6 +53,7 @@ Bienvenido al sitio web del curso Ingeniería de Software. En esta página podr�
 Aquí podrán encontrar las slides y material de cada sección:
 
 [Sección 1](https://drive.google.com/drive/folders/1SXUd2nx6ExUJBqIv-MzBDa8lkEEo6DR_)
+
 [Sección 2](https://drive.google.com/drive/folders/1zKNdt5ymYGnN7vQWxZ0WZaZlytJ-THGM)
 
 
