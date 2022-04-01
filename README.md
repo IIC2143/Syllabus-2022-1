@@ -9,6 +9,7 @@ Bienvenido al sitio web del curso Ingeniería de Software. En esta página podr�
 
 - [IIC2143 - Ingeniería de Software](#iic2143---ingeniería-de-software.2022-1)
   - [Cuerpo Docente](#cuerpo-docente)
+  - [Clases](#clases)
   - [Foro](#foro)
     - [Etiquetas](#etiquetas)
     - [Procedimiento](#procedimiento)
@@ -47,6 +48,12 @@ Bienvenido al sitio web del curso Ingeniería de Software. En esta página podr�
 | Benjamín González  | bgonzalezb@uc.cl         | [@Benyo27](https://github.com/Benyo27)                         |
 | Constanza Ortiz  | constanza.ortiz@uc.cl         | [@conyortizsimpson](https://github.com/conyortizsimpson)                         |
 
+## Clases
+
+Aquí podrán encontrar las slides y material de cada sección:
+
+[Sección 1](https://drive.google.com/drive/folders/1SXUd2nx6ExUJBqIv-MzBDa8lkEEo6DR_)
+[Sección 2](https://drive.google.com/drive/folders/1zKNdt5ymYGnN7vQWxZ0WZaZlytJ-THGM)
 
 
 ## Foro
