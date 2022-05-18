@@ -4,6 +4,8 @@
 | Numero            | Nombre                  | Link                                                               |
 |-------------------|-------------------------|--------------------------------------------------------------------|
 | 1  | Git y Heroku | [link](https://drive.google.com/file/d/1keFJ_ePFT1rEFICdSbdeKF13zkgrXIQk/view?usp=sharing)   |
+| 2  | Bulma pt. 1 | [link](https://drive.google.com/drive/u/0/folders/1Clmw0AOjjYUJqStTVrOZOWPhZaQbjmju)   |
+| 3  | Bulma pt. 2 | [link](https://drive.google.com/drive/u/0/folders/1Clmw0AOjjYUJqStTVrOZOWPhZaQbjmju)   |
 
 ## Codigos de Ejemplo
 
