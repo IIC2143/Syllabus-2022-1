@@ -1,0 +1,114 @@
+COMIENZA INFORMACION ALDEANOS
+1 - Granjero Pepe (lvl 1):
+(1) Trigo: 4
+(2) Papa: 6
+(3) Zanahoria: 6
+4 - Granjero Juan (lvl 2):
+(1) Trigo: 4
+(2) Papa: 6
+(3) Zanahoria: 6
+(4) Pan: 8
+(5) Calabaza: 8
+(6) Pie de Calabaza: 10
+5 - Granjero Camila (lvl 5):
+(1) Trigo: 4
+(2) Papa: 6
+(3) Zanahoria: 6
+(4) Pan: 8
+(5) Calabaza: 8
+(6) Pie de Calabaza: 10
+(7) Manzana: 4
+(8) Sandia: 8
+(9) Galleta: 8
+(10) Torta: 16
+(11) Zanahoria Dorada: 40
+10 - Granjero Ignacio (lvl 2):
+(1) Trigo: 4
+(2) Papa: 6
+(3) Zanahoria: 6
+(4) Pan: 8
+(5) Calabaza: 8
+(6) Pie de Calabaza: 10
+2 - Herrero Constanza (lvl 5):
+(12) Carbon: 5
+(13) Hacha Piedra: 15
+(14) Picota Piedra: 15
+(15) Pala Piedra: 15
+(16) Lingote de Hierro: 10
+(17) Campana: 10
+(18) Pedernal: 8
+(19) Hacha Hierro: 20
+(20) Picota Hierro: 20
+(21) Pala Hierro: 20
+(22) Diamante: 25
+(23) Hacha Diamante: 30
+(24) Pala Diamante: 30
+(25) Picota Diamante: 40
+7 - Herrero Carlos (lvl 4):
+(12) Carbon: 5
+(13) Hacha Piedra: 15
+(14) Picota Piedra: 15
+(15) Pala Piedra: 15
+(16) Lingote de Hierro: 10
+(17) Campana: 10
+(18) Pedernal: 8
+(19) Hacha Hierro: 20
+(20) Picota Hierro: 20
+(21) Pala Hierro: 20
+(22) Diamante: 25
+(23) Hacha Diamante: 30
+(24) Pala Diamante: 30
+8 - Herrero Andres (lvl 1):
+(12) Carbon: 5
+(13) Hacha Piedra: 15
+(14) Picota Piedra: 15
+(15) Pala Piedra: 15
+3 - Bibliotecario Javiera (lvl 4):
+(26) Papel: 3
+(27) Estanteria: 13
+(28) Linterna: 7
+(29) Libro: 10
+(30) Tinta: 7
+(31) Vidrio: 7
+(32) Libro y Pluma: 10
+6 - Bibliotecario Maria (lvl 3):
+(26) Papel: 3
+(27) Estanteria: 13
+(28) Linterna: 7
+(29) Libro: 10
+(30) Tinta: 7
+9 - Bibliotecario Martin (lvl 2):
+(26) Papel: 3
+(27) Estanteria: 13
+(28) Linterna: 7
+FIN INFORMACION ALDEANOS
+COMIENZA REALIZAR INTERCAMBIOS
+El jugador Nicole compro Trigo del Herrero Andres por 5 rubies
+Andres subio de nivel! (1 -> 2)
+El jugador Nicole compro Calabaza del Granjero Juan por 4 rubies
+Juan subio de nivel! (2 -> 3)
+El jugador Nicole intento comprar Zanahoria Dorada del Granjero Pepe y no pudo porque el aldeano no tiene el nivel suficiente
+El jugador Maggie compro Trigo del Bibliotecario Martin por 12 rubies
+Martin subio de nivel! (2 -> 3)
+El jugador Felipe intento comprar Estanteria del Bibliotecario Javiera y no pudo porque no tiene rubies suficientes
+El jugador Felipe compro Trigo del Granjero Camila por 3 rubies
+El jugador Maggie compro Libro del Bibliotecario Martin por 11 rubies
+El jugador Nicole compro Lingote de Hierro del Herrero Carlos por 6 rubies
+El jugador Nicole intento comprar Hacha Hierro del Herrero Andres y no pudo porque el aldeano no tiene el nivel suficiente
+El jugador Nicole compro Trigo del Granjero Pepe por 2 rubies
+Pepe subio de nivel! (1 -> 2)
+FIN REALIZAR INTERCAMBIOS
+COMIENZA TOP JUGADORES - EXPERIENCIA
+Catalina: 150 experiencia
+Maggie: 130 experiencia
+Nicole: 120 experiencia
+Felipe: 75 experiencia
+Josefa: 20 experiencia
+FIN TOP JUGADORES
+COMIENZA TOP JUGADORES - RUBIES
+Josefa: 100 rubies
+Nicole: 47 rubies
+Catalina: 32 rubies
+Maggie: 22 rubies
+Felipe: 5 rubies
+FIN TOP JUGADORES
